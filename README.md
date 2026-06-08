@@ -58,7 +58,7 @@ No extra layers. Just development.
 
 | | |
 |:---:|:---:|
-| <img src="./assets/nethmi.jpg" width="130" style="border-radius:50%"/> | <img src="./assets/binali.jpg" width="130" style="border-radius:50%"/> |
+| <img src="nethmi.jpeg" width="130" style="border-radius:50%"/> | <img src="binali.jpeg" width="130" style="border-radius:50%"/> |
 | **🌸 Nethmi Thakshila**<br>Co‑Founder & Business Lead | **⚡ Binali Assalaarachchi**<br>Co‑Founder & Technical Lead |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmi-thakshila-2ba25b2b9/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://nethmi-thakshila.netlify.app/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binali-assalaarachchi/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white)](https://binali-portfolio-website.netlify.app/) |
 
